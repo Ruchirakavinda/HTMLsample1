@@ -1,16 +1,16 @@
 body{
-    background-color: #7DC623;
+    background-color: black;
 }
 h1{
-    text-align: center;
+    text-align: left;
 }
 h4{
-    text-align: center;
+    text-align: left;
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
     color: green;
 }
 pre{
-    text-align: left;
+    text-align: center;
 }
